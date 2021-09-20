@@ -1,3 +1,0 @@
-[submodule "pytket"]
-	path = pytket
-	url = ./pytket/
