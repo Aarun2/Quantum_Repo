@@ -1,6 +1,8 @@
+# Cirq
+
 This directory contains my cirq practice circuits. The visualization file is very interesting. Do take a look!
 
-# Dependencies
+## Dependencies
 List:
   1. Cirq
   2. Python3 -> latest version
