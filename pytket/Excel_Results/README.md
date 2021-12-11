@@ -1,3 +1,2 @@
-This folder contains all the data collected by me after running the benchmarks for tket qubit mapping.
-
-This folder also contains a script to help convert data from jupyter notebook to excel data.
+This folder contains Tokyo_new and Rochester_new. These excel files contain all the data for those architectures. 
+tket_size, tket_depth and tket_timing contains the extrapolated data from the files to generate useful graphs.
